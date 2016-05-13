@@ -1,10 +1,10 @@
 ---------------GROUP NO: 3-----------
 ------PROJECT NAME: COURSES & COLLEGES-----------
 
-Root folder path: http://192.168.0.120/group_no_3/
-Css path: http://192.168.0.120/group_no_3/css
-JavaScript path: http://192.168.0.120/group_no_3/js
-Images path: http: //192.168.0.120/group_no_3/img
+Root folder path: group_no_3/
+Css path: group_no_3/css
+JavaScript path: group_no_3/js
+Images path: http: group_no_3/img
 
 Login credentials:
     Admin login:
